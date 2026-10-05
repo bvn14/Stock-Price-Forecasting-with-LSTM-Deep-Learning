@@ -4,7 +4,6 @@ Group assignment for **DA4131 - Advanced ML Applications for Business**, Departm
 
 The project trains one LSTM model per stock to predict the next-day price movement, evaluates the models on a held-out test period, and makes a blind forecast for **1 to 14 May 2026**.
 
-> This is a university project for learning. It is not financial advice.
 
 ## Main idea
 
