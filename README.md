@@ -62,8 +62,6 @@ MSFT stayed close to the forecast. GOOG and AAPL rose well above it. The model r
 |-- Output.csv                                   # forecast, 1 to 14 May 2026
 |-- Forecast_with_range.csv                      # forecast with approximate 80% range
 |-- GOOG_data.csv, AAPL_data.csv, MSFT_data.csv  # raw price data (Apr 2021 to Mar 2026)
-|-- *_lstm_initial.keras, *_lstm_tuned.keras     # trained models (optional)
-|-- *_scaler.pkl                                 # scalers fitted on training data (optional)
 |-- requirements.txt
 `-- README.md
 ```
