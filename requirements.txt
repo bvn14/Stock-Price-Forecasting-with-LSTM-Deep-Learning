@@ -1,0 +1,11 @@
+# Tested in Google Colab with Python 3 and TensorFlow 2.20.0
+numpy
+pandas
+scikit-learn
+statsmodels
+matplotlib
+plotly
+nbformat>=4.2
+joblib
+yfinance
+tensorflow>=2.16
